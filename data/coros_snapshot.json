@@ -1,0 +1,3137 @@
+{
+ "schema": 1,
+ "source": "mcp",
+ "fetchedAt": "2026-09-10T20:15:00Z",
+ "user": {
+  "nickname": "Lulu_pottier",
+  "heightCm": 176.0,
+  "weightKg": 71.0,
+  "birthday": "1998-06-05",
+  "gender": "Male"
+ },
+ "fitness": {
+  "vo2max": 55,
+  "runningLevel": 85,
+  "thresholdPaceSecPerKm": 270,
+  "predictions": {
+   "5k": 1297,
+   "10k": 2697,
+   "half": 6019,
+   "marathon": 12686
+  }
+ },
+ "recovery": {
+  "percent": 100,
+  "level": "Heavy training allowed",
+  "fullRecoveryHours": 0
+ },
+ "devices": [
+  {
+   "name": "COROS R4",
+   "serial": "W35A084631"
+  }
+ ],
+ "activities": [
+  {
+   "date": "2026-03-04",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Famars Course",
+   "durationSec": 2499,
+   "distanceKm": 7.3,
+   "paceSecPerKm": 342,
+   "avgHr": 156,
+   "calories": 576,
+   "labelId": "475835928286363648"
+  },
+  {
+   "date": "2026-03-10",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Famars Course",
+   "durationSec": 2460,
+   "distanceKm": 7.32,
+   "paceSecPerKm": 336,
+   "avgHr": 158,
+   "calories": 588,
+   "labelId": "475975042545516547"
+  },
+  {
+   "date": "2026-03-14",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Stavelot Course",
+   "durationSec": 6995,
+   "distanceKm": 20.87,
+   "paceSecPerKm": 335,
+   "avgHr": 166,
+   "calories": 1772,
+   "labelId": "476068151256186880"
+  },
+  {
+   "date": "2026-03-20",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Famars Course",
+   "durationSec": 2667,
+   "distanceKm": 7.76,
+   "paceSecPerKm": 344,
+   "avgHr": 151,
+   "calories": 590,
+   "labelId": "476207071711232304"
+  },
+  {
+   "date": "2026-03-21",
+   "sportType": 1006,
+   "sport": "Padel",
+   "title": "Petite-Forêt Padel",
+   "durationSec": 5082,
+   "distanceKm": 1.13,
+   "paceSecPerKm": 4497,
+   "avgHr": 133,
+   "calories": 690,
+   "labelId": "476230334864720078"
+  },
+  {
+   "date": "2026-03-21",
+   "sportType": 1006,
+   "sport": "Padel",
+   "title": "Petite-Forêt Padel",
+   "durationSec": 5745,
+   "distanceKm": 1.53,
+   "paceSecPerKm": 3755,
+   "avgHr": 135,
+   "calories": 794,
+   "labelId": "476235378223775746"
+  },
+  {
+   "date": "2026-03-24",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Famars Course",
+   "durationSec": 2542,
+   "distanceKm": 7.63,
+   "paceSecPerKm": 333,
+   "avgHr": 156,
+   "calories": 603,
+   "labelId": "476299867426160648"
+  },
+  {
+   "date": "2026-03-29",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Valenciennes Course",
+   "durationSec": 3237,
+   "distanceKm": 10.06,
+   "paceSecPerKm": 322,
+   "avgHr": 167,
+   "calories": 861,
+   "labelId": "476416208158097808"
+  },
+  {
+   "date": "2026-03-31",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Famars Course",
+   "durationSec": 2417,
+   "distanceKm": 7.28,
+   "paceSecPerKm": 332,
+   "avgHr": 153,
+   "calories": 561,
+   "labelId": "476461151775916139"
+  },
+  {
+   "date": "2026-04-02",
+   "sportType": 1005,
+   "sport": "Tennis",
+   "title": "Maing Tennis",
+   "durationSec": 5099,
+   "distanceKm": 3.66,
+   "paceSecPerKm": 1393,
+   "avgHr": 112,
+   "calories": 512,
+   "labelId": "476515454383325190"
+  },
+  {
+   "date": "2026-04-04",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Valenciennes Course",
+   "durationSec": 3490,
+   "distanceKm": 10.06,
+   "paceSecPerKm": 347,
+   "avgHr": 155,
+   "calories": 818,
+   "labelId": "476555981694730345"
+  },
+  {
+   "date": "2026-04-07",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Famars Course",
+   "durationSec": 2506,
+   "distanceKm": 7.62,
+   "paceSecPerKm": 329,
+   "avgHr": 157,
+   "calories": 611,
+   "labelId": "476623517377396839"
+  },
+  {
+   "date": "2026-04-07",
+   "sportType": 1006,
+   "sport": "Padel",
+   "title": "Petite-Forêt Padel",
+   "durationSec": 6662,
+   "distanceKm": 6.14,
+   "paceSecPerKm": 1085,
+   "avgHr": 120,
+   "calories": 759,
+   "labelId": "476632726592585832"
+  },
+  {
+   "date": "2026-04-09",
+   "sportType": 1006,
+   "sport": "Padel",
+   "title": "Valenciennes Padel",
+   "durationSec": 6492,
+   "distanceKm": 1.96,
+   "paceSecPerKm": 3312,
+   "avgHr": 122,
+   "calories": 759,
+   "labelId": "476677523906789378"
+  },
+  {
+   "date": "2026-04-12",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Valenciennes Course",
+   "durationSec": 919,
+   "distanceKm": 2.4,
+   "paceSecPerKm": 383,
+   "avgHr": 154,
+   "calories": 190,
+   "labelId": "476737282202697837"
+  },
+  {
+   "date": "2026-04-12",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Valenciennes Course",
+   "durationSec": 2673,
+   "distanceKm": 10.05,
+   "paceSecPerKm": 266,
+   "avgHr": 168,
+   "calories": 807,
+   "labelId": "476737282202697838"
+  },
+  {
+   "date": "2026-04-12",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Valenciennes Course",
+   "durationSec": 289,
+   "distanceKm": 0.8,
+   "paceSecPerKm": 361,
+   "avgHr": 154,
+   "calories": 66,
+   "labelId": "476737282202697839"
+  },
+  {
+   "date": "2026-04-18",
+   "sportType": 1006,
+   "sport": "Padel",
+   "title": "Quiévrain Padel",
+   "durationSec": 5538,
+   "distanceKm": 1.63,
+   "paceSecPerKm": 3398,
+   "avgHr": 115,
+   "calories": 588,
+   "labelId": "476884791774445571"
+  },
+  {
+   "date": "2026-04-19",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Valenciennes Course",
+   "durationSec": 3003,
+   "distanceKm": 10.04,
+   "paceSecPerKm": 299,
+   "avgHr": 168,
+   "calories": 809,
+   "labelId": "476902892645679106"
+  },
+  {
+   "date": "2026-04-21",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Famars Course",
+   "durationSec": 2713,
+   "distanceKm": 7.46,
+   "paceSecPerKm": 364,
+   "avgHr": 146,
+   "calories": 576,
+   "labelId": "476948355686105195"
+  },
+  {
+   "date": "2026-04-25",
+   "sportType": 1006,
+   "sport": "Padel",
+   "title": "Padel",
+   "durationSec": 2130,
+   "distanceKm": 0.0,
+   "paceSecPerKm": null,
+   "avgHr": 133,
+   "calories": 289,
+   "labelId": "477042925222527180"
+  },
+  {
+   "date": "2026-04-25",
+   "sportType": 1006,
+   "sport": "Padel",
+   "title": "Padel",
+   "durationSec": 1794,
+   "distanceKm": 0.0,
+   "paceSecPerKm": null,
+   "avgHr": 128,
+   "calories": 227,
+   "labelId": "477044085406859363"
+  },
+  {
+   "date": "2026-04-25",
+   "sportType": 1006,
+   "sport": "Padel",
+   "title": "Padel",
+   "durationSec": 2695,
+   "distanceKm": 0.0,
+   "paceSecPerKm": null,
+   "avgHr": 131,
+   "calories": 354,
+   "labelId": "477044810713170224"
+  },
+  {
+   "date": "2026-04-25",
+   "sportType": 1006,
+   "sport": "Padel",
+   "title": "Padel",
+   "durationSec": 2159,
+   "distanceKm": 0.0,
+   "paceSecPerKm": null,
+   "avgHr": 124,
+   "calories": 260,
+   "labelId": "477046095988424809"
+  },
+  {
+   "date": "2026-04-26",
+   "sportType": 1006,
+   "sport": "Padel",
+   "title": "Valenciennes Padel",
+   "durationSec": 2421,
+   "distanceKm": 0.0,
+   "paceSecPerKm": null,
+   "avgHr": 120,
+   "calories": 274,
+   "labelId": "477062186546528363"
+  },
+  {
+   "date": "2026-04-26",
+   "sportType": 1006,
+   "sport": "Padel",
+   "title": "Valenciennes Padel",
+   "durationSec": 4232,
+   "distanceKm": 0.143,
+   "paceSecPerKm": null,
+   "avgHr": 111,
+   "calories": 421,
+   "labelId": "477064159547130257"
+  },
+  {
+   "date": "2026-04-26",
+   "sportType": 1006,
+   "sport": "Padel",
+   "title": "Valenciennes Padel",
+   "durationSec": 2962,
+   "distanceKm": 0.523,
+   "paceSecPerKm": 5663,
+   "avgHr": 104,
+   "calories": 258,
+   "labelId": "477065149262364978"
+  },
+  {
+   "date": "2026-04-28",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Famars Course",
+   "durationSec": 2715,
+   "distanceKm": 8.41,
+   "paceSecPerKm": 323,
+   "avgHr": 157,
+   "calories": 656,
+   "labelId": "477110660346445824"
+  },
+  {
+   "date": "2026-05-01",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Valenciennes Course",
+   "durationSec": 3767,
+   "distanceKm": 10.03,
+   "paceSecPerKm": 376,
+   "avgHr": 147,
+   "calories": 802,
+   "labelId": "477179419014758603"
+  },
+  {
+   "date": "2026-05-01",
+   "sportType": 1006,
+   "sport": "Padel",
+   "title": "Quiévrain Padel",
+   "durationSec": 6925,
+   "distanceKm": 2.11,
+   "paceSecPerKm": 3282,
+   "avgHr": 132,
+   "calories": 919,
+   "labelId": "477184585866706948"
+  },
+  {
+   "date": "2026-05-02",
+   "sportType": 200,
+   "sport": "Vélo route",
+   "title": "Saint-André-lez-Lille Vélo de route",
+   "durationSec": 3315,
+   "distanceKm": 11.67,
+   "paceSecPerKm": 284,
+   "avgHr": 98,
+   "calories": 259,
+   "labelId": "477201511795949578"
+  },
+  {
+   "date": "2026-05-03",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Valenciennes Course",
+   "durationSec": 4570,
+   "distanceKm": 13.01,
+   "paceSecPerKm": 351,
+   "avgHr": 162,
+   "calories": 1139,
+   "labelId": "477228532771094733"
+  },
+  {
+   "date": "2026-05-04",
+   "sportType": 1006,
+   "sport": "Padel",
+   "title": "Petite-Forêt Padel",
+   "durationSec": 5726,
+   "distanceKm": 1.58,
+   "paceSecPerKm": 3624,
+   "avgHr": 148,
+   "calories": 920,
+   "labelId": "477258752167280645"
+  },
+  {
+   "date": "2026-05-05",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Famars Course",
+   "durationSec": 2638,
+   "distanceKm": 7.64,
+   "paceSecPerKm": 345,
+   "avgHr": 148,
+   "calories": 570,
+   "labelId": "477273034812588036"
+  },
+  {
+   "date": "2026-05-08",
+   "sportType": 1006,
+   "sport": "Padel",
+   "title": "Quiévrain Padel",
+   "durationSec": 6062,
+   "distanceKm": 1.78,
+   "paceSecPerKm": 3406,
+   "avgHr": 127,
+   "calories": 764,
+   "labelId": "477340691278627118"
+  },
+  {
+   "date": "2026-05-12",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Famars Course",
+   "durationSec": 2904,
+   "distanceKm": 8.4,
+   "paceSecPerKm": 346,
+   "avgHr": 150,
+   "calories": 636,
+   "labelId": "477435344304766976"
+  },
+  {
+   "date": "2026-05-12",
+   "sportType": 1006,
+   "sport": "Padel",
+   "title": "Padel",
+   "durationSec": 6622,
+   "distanceKm": 0.0,
+   "paceSecPerKm": null,
+   "avgHr": 116,
+   "calories": 707,
+   "labelId": "477441767166214245"
+  },
+  {
+   "date": "2026-05-15",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Valenciennes Course",
+   "durationSec": 3404,
+   "distanceKm": 10.03,
+   "paceSecPerKm": 339,
+   "avgHr": 152,
+   "calories": 771,
+   "labelId": "477502781465329766"
+  },
+  {
+   "date": "2026-05-16",
+   "sportType": 1006,
+   "sport": "Padel",
+   "title": "Petite-Forêt Padel",
+   "durationSec": 10967,
+   "distanceKm": 2.44,
+   "paceSecPerKm": 4495,
+   "avgHr": 111,
+   "calories": 1080,
+   "labelId": "477532898044444675"
+  },
+  {
+   "date": "2026-05-20",
+   "sportType": 1006,
+   "sport": "Padel",
+   "title": "Petite-Forêt Padel",
+   "durationSec": 5537,
+   "distanceKm": 1.95,
+   "paceSecPerKm": 2839,
+   "avgHr": 119,
+   "calories": 623,
+   "labelId": "477626795162632592"
+  },
+  {
+   "date": "2026-05-22",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Famars Course",
+   "durationSec": 2422,
+   "distanceKm": 7.6,
+   "paceSecPerKm": 319,
+   "avgHr": 159,
+   "calories": 593,
+   "labelId": "477667181807566950"
+  },
+  {
+   "date": "2026-05-25",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Famars Course",
+   "durationSec": 2619,
+   "distanceKm": 7.5,
+   "paceSecPerKm": 349,
+   "avgHr": 157,
+   "calories": 623,
+   "labelId": "477736799475630087"
+  },
+  {
+   "date": "2026-06-03",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Famars Course",
+   "durationSec": 2406,
+   "distanceKm": 7.3,
+   "paceSecPerKm": 330,
+   "avgHr": 155,
+   "calories": 560,
+   "labelId": "477945447369965669"
+  },
+  {
+   "date": "2026-06-06",
+   "sportType": 1005,
+   "sport": "Tennis",
+   "title": "Quiévrechain Tennis",
+   "durationSec": 7043,
+   "distanceKm": 3.59,
+   "paceSecPerKm": 1962,
+   "avgHr": 133,
+   "calories": 953,
+   "labelId": "478021617010639152"
+  },
+  {
+   "date": "2026-06-09",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Famars Course",
+   "durationSec": 2328,
+   "distanceKm": 5.67,
+   "paceSecPerKm": 411,
+   "avgHr": 130,
+   "calories": 425,
+   "labelId": "478084760814518274"
+  },
+  {
+   "date": "2026-06-11",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Famars Course",
+   "durationSec": 3390,
+   "distanceKm": 9.5,
+   "paceSecPerKm": 357,
+   "avgHr": 147,
+   "calories": 728,
+   "labelId": "478131300006396004"
+  },
+  {
+   "date": "2026-06-14",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Valenciennes Course",
+   "durationSec": 5361,
+   "distanceKm": 15.02,
+   "paceSecPerKm": 357,
+   "avgHr": 157,
+   "calories": 1263,
+   "labelId": "478203770063323143"
+  },
+  {
+   "date": "2026-06-16",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Famars Course",
+   "durationSec": 3646,
+   "distanceKm": 10.16,
+   "paceSecPerKm": 359,
+   "avgHr": 158,
+   "calories": 874,
+   "labelId": "478247290155335684"
+  },
+  {
+   "date": "2026-06-18",
+   "sportType": 1005,
+   "sport": "Tennis",
+   "title": "Saint-Saulve Tennis",
+   "durationSec": 8040,
+   "distanceKm": 3.97,
+   "paceSecPerKm": 2025,
+   "avgHr": 132,
+   "calories": 1085,
+   "labelId": "478300149660025134"
+  },
+  {
+   "date": "2026-06-23",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Valenciennes Course",
+   "durationSec": 3621,
+   "distanceKm": 10.1,
+   "paceSecPerKm": 359,
+   "avgHr": 141,
+   "calories": 729,
+   "labelId": "478403659720327270"
+  },
+  {
+   "date": "2026-06-29",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Valenciennes Course",
+   "durationSec": 3865,
+   "distanceKm": 10.55,
+   "paceSecPerKm": 366,
+   "avgHr": 138,
+   "calories": 754,
+   "labelId": "478542810755137637"
+  },
+  {
+   "date": "2026-07-01",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Famars Course",
+   "durationSec": 2951,
+   "distanceKm": 8.4,
+   "paceSecPerKm": 351,
+   "avgHr": 151,
+   "calories": 664,
+   "labelId": "478594973667721318"
+  },
+  {
+   "date": "2026-07-04",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Escautpont Course",
+   "durationSec": 4420,
+   "distanceKm": 12.12,
+   "paceSecPerKm": 365,
+   "avgHr": 153,
+   "calories": 1005,
+   "labelId": "478661375472730212"
+  },
+  {
+   "date": "2026-07-07",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Famars Course",
+   "durationSec": 2895,
+   "distanceKm": 8.12,
+   "paceSecPerKm": 357,
+   "avgHr": 151,
+   "calories": 649,
+   "labelId": "478734122823483496"
+  },
+  {
+   "date": "2026-07-09",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Valenciennes Course",
+   "durationSec": 3444,
+   "distanceKm": 10.03,
+   "paceSecPerKm": 343,
+   "avgHr": 148,
+   "calories": 725,
+   "labelId": "478774476994019629"
+  },
+  {
+   "date": "2026-07-14",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Quérénaing Course",
+   "durationSec": 5404,
+   "distanceKm": 15.25,
+   "paceSecPerKm": 354,
+   "avgHr": 153,
+   "calories": 1234,
+   "labelId": "478892350221877548"
+  },
+  {
+   "date": "2026-07-17",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Famars Course",
+   "durationSec": 2941,
+   "distanceKm": 8.26,
+   "paceSecPerKm": 356,
+   "avgHr": 154,
+   "calories": 655,
+   "labelId": "478966076019867950"
+  },
+  {
+   "date": "2026-07-19",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Bruges Course",
+   "durationSec": 2683,
+   "distanceKm": 8.02,
+   "paceSecPerKm": 335,
+   "avgHr": 156,
+   "calories": 604,
+   "labelId": "479008092342747246"
+  },
+  {
+   "date": "2026-07-22",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Escautpont Course",
+   "durationSec": 2792,
+   "distanceKm": 7.15,
+   "paceSecPerKm": 390,
+   "avgHr": 144,
+   "calories": 578,
+   "labelId": "479100139397480649"
+  },
+  {
+   "date": "2026-07-26",
+   "sportType": 1006,
+   "sport": "Padel",
+   "title": "Padel",
+   "durationSec": 5117,
+   "distanceKm": 0.0,
+   "paceSecPerKm": null,
+   "avgHr": 121,
+   "calories": 592,
+   "labelId": "479180677284135015"
+  },
+  {
+   "date": "2026-07-27",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Saint-Céré Course",
+   "durationSec": 3062,
+   "distanceKm": 8.85,
+   "paceSecPerKm": 346,
+   "avgHr": 159,
+   "calories": 698,
+   "labelId": "479195129846989105"
+  },
+  {
+   "date": "2026-07-27",
+   "sportType": 204,
+   "sport": "VTT",
+   "title": "Saint-Céré Vélo tout terrain",
+   "durationSec": 5406,
+   "distanceKm": 28.06,
+   "paceSecPerKm": 193,
+   "avgHr": 118,
+   "calories": 606,
+   "labelId": "479200251329151280"
+  },
+  {
+   "date": "2026-07-29",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Saint-Céré Course",
+   "durationSec": 3029,
+   "distanceKm": 8.02,
+   "paceSecPerKm": 378,
+   "avgHr": 148,
+   "calories": 632,
+   "labelId": "479239909712888212"
+  },
+  {
+   "date": "2026-07-29",
+   "sportType": 204,
+   "sport": "VTT",
+   "title": "Saint-Céré Vélo tout terrain",
+   "durationSec": 5750,
+   "distanceKm": 28.7,
+   "paceSecPerKm": 200,
+   "avgHr": 133,
+   "calories": 777,
+   "labelId": "479242265502449665"
+  },
+  {
+   "date": "2026-07-30",
+   "sportType": 1006,
+   "sport": "Padel",
+   "title": "Saint-Céré Padel",
+   "durationSec": 5809,
+   "distanceKm": 0.0,
+   "paceSecPerKm": null,
+   "avgHr": 125,
+   "calories": 709,
+   "labelId": "479266235448590437"
+  },
+  {
+   "date": "2026-08-01",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Fractionné 1er Août",
+   "durationSec": 2942,
+   "distanceKm": 8.11,
+   "paceSecPerKm": 363,
+   "avgHr": 149,
+   "calories": 641,
+   "labelId": "479309876072317231"
+  },
+  {
+   "date": "2026-08-01",
+   "sportType": 200,
+   "sport": "Vélo route",
+   "title": "Saint-Céré Vélo de route",
+   "durationSec": 6111,
+   "distanceKm": 34.59,
+   "paceSecPerKm": 177,
+   "avgHr": 128,
+   "calories": 776,
+   "labelId": "479312246625828966"
+  },
+  {
+   "date": "2026-08-02",
+   "sportType": 1006,
+   "sport": "Padel",
+   "title": "Padel",
+   "durationSec": 3874,
+   "distanceKm": 0.0,
+   "paceSecPerKm": null,
+   "avgHr": 125,
+   "calories": 478,
+   "labelId": "479353640180547886"
+  },
+  {
+   "date": "2026-08-03",
+   "sportType": 1006,
+   "sport": "Padel",
+   "title": "Flassans-sur-Issole Padel",
+   "durationSec": 5438,
+   "distanceKm": 1.1,
+   "paceSecPerKm": 4944,
+   "avgHr": 153,
+   "calories": 916,
+   "labelId": "479364800116195430"
+  },
+  {
+   "date": "2026-08-05",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Rocbaron Course",
+   "durationSec": 4633,
+   "distanceKm": 12.3,
+   "paceSecPerKm": 377,
+   "avgHr": 149,
+   "calories": 1013,
+   "labelId": "479402417050386533"
+  },
+  {
+   "date": "2026-08-06",
+   "sportType": 1006,
+   "sport": "Padel",
+   "title": "Padel",
+   "durationSec": 9061,
+   "distanceKm": 0.0,
+   "paceSecPerKm": null,
+   "avgHr": 129,
+   "calories": 1168,
+   "labelId": "479429167717318657"
+  },
+  {
+   "date": "2026-08-08",
+   "sportType": 101,
+   "sport": "Course (tapis)",
+   "title": "Tapis/Salle",
+   "durationSec": 1873,
+   "distanceKm": 4.29,
+   "paceSecPerKm": 437,
+   "avgHr": 137,
+   "calories": 266,
+   "labelId": "479474186220240897"
+  },
+  {
+   "date": "2026-08-08",
+   "sportType": 900,
+   "sport": "Marche",
+   "title": "Rocbaron Marche",
+   "durationSec": 834,
+   "distanceKm": 1.08,
+   "paceSecPerKm": 772,
+   "avgHr": 143,
+   "calories": 125,
+   "labelId": "479474449018552323"
+  },
+  {
+   "date": "2026-08-08",
+   "sportType": 903,
+   "sport": "Elliptique",
+   "title": "Elliptique",
+   "durationSec": 602,
+   "distanceKm": 0.0,
+   "paceSecPerKm": null,
+   "avgHr": 138,
+   "calories": 87,
+   "labelId": "479474666719707440"
+  },
+  {
+   "date": "2026-08-08",
+   "sportType": 201,
+   "sport": "Vélo int.",
+   "title": "Vélo Int.",
+   "durationSec": 211,
+   "distanceKm": 0.0,
+   "paceSecPerKm": null,
+   "avgHr": 109,
+   "calories": 20,
+   "labelId": "479474754766536808"
+  },
+  {
+   "date": "2026-08-12",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Bellagio Course",
+   "durationSec": 3675,
+   "distanceKm": 10.03,
+   "paceSecPerKm": 366,
+   "avgHr": 143,
+   "calories": 749,
+   "labelId": "479563584353894804"
+  },
+  {
+   "date": "2026-08-16",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Valenciennes Course",
+   "durationSec": 3610,
+   "distanceKm": 10.03,
+   "paceSecPerKm": 360,
+   "avgHr": 149,
+   "calories": 787,
+   "labelId": "479668110975074508"
+  },
+  {
+   "date": "2026-08-18",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Famars Course",
+   "durationSec": 2935,
+   "distanceKm": 8.11,
+   "paceSecPerKm": 362,
+   "avgHr": 141,
+   "calories": 593,
+   "labelId": "479708516416782436"
+  },
+  {
+   "date": "2026-08-20",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Rappel d'intensité court",
+   "durationSec": 2761,
+   "distanceKm": 7.67,
+   "paceSecPerKm": 360,
+   "avgHr": 147,
+   "calories": 593,
+   "labelId": "479754609200496743"
+  },
+  {
+   "date": "2026-08-23",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Valenciennes Course",
+   "durationSec": 4171,
+   "distanceKm": 11.03,
+   "paceSecPerKm": 378,
+   "avgHr": 141,
+   "calories": 802,
+   "labelId": "479830382622048657"
+  },
+  {
+   "date": "2026-08-25",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Endurance + cadence",
+   "durationSec": 2864,
+   "distanceKm": 7.52,
+   "paceSecPerKm": 381,
+   "avgHr": 139,
+   "calories": 544,
+   "labelId": "479870535199654090"
+  },
+  {
+   "date": "2026-08-27",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Seuil continu",
+   "durationSec": 2876,
+   "distanceKm": 8.46,
+   "paceSecPerKm": 340,
+   "avgHr": 163,
+   "calories": 727,
+   "labelId": "479916997080023042"
+  },
+  {
+   "date": "2026-08-31",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "Sortie longue à finale",
+   "durationSec": 6637,
+   "distanceKm": 18.01,
+   "paceSecPerKm": 369,
+   "avgHr": 143,
+   "calories": 1370,
+   "labelId": "480016248673960138"
+  },
+  {
+   "date": "2026-09-02",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "COURSE : Intervalles 1000 m (12 km) S6",
+   "durationSec": 3457,
+   "distanceKm": 10.08,
+   "paceSecPerKm": 343,
+   "avgHr": 162,
+   "calories": 868,
+   "labelId": "480062882088780277"
+  },
+  {
+   "date": "2026-09-06",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "COURSE : Sortie longue à blocs (21 km) S6",
+   "durationSec": 7624,
+   "distanceKm": 21.15,
+   "paceSecPerKm": 360,
+   "avgHr": 155,
+   "calories": 1776,
+   "labelId": "480147381273264236"
+  },
+  {
+   "date": "2026-09-08",
+   "sportType": 100,
+   "sport": "Course (ext.)",
+   "title": "COURSE : Endurance + lignes droites (10 km) S7",
+   "durationSec": 3512,
+   "distanceKm": 9.16,
+   "paceSecPerKm": 383,
+   "avgHr": 140,
+   "calories": 695,
+   "labelId": "480201098697671357"
+  }
+ ],
+ "daily": [
+  {
+   "date": "2026-06-13",
+   "steps": 2571,
+   "calories": 324,
+   "exerciseMin": 0,
+   "stressAvg": 31,
+   "sleepTotalMin": 408,
+   "sleepDeepMin": 46,
+   "sleepLightMin": 163,
+   "sleepRemMin": 50,
+   "sleepAwakeMin": 7,
+   "sleepHrAvg": null,
+   "sleepScore": 94
+  },
+  {
+   "date": "2026-06-14",
+   "steps": 18550,
+   "calories": 1565,
+   "exerciseMin": 91,
+   "stressAvg": 41,
+   "sleepTotalMin": 418,
+   "sleepDeepMin": 61,
+   "sleepLightMin": 176,
+   "sleepRemMin": 31,
+   "sleepAwakeMin": 38,
+   "sleepHrAvg": null,
+   "sleepScore": 74
+  },
+  {
+   "date": "2026-06-15",
+   "steps": 2117,
+   "calories": 228,
+   "exerciseMin": 0,
+   "stressAvg": 27,
+   "sleepTotalMin": 452,
+   "sleepDeepMin": 101,
+   "sleepLightMin": 268,
+   "sleepRemMin": 83,
+   "sleepAwakeMin": 22,
+   "sleepHrAvg": null,
+   "sleepScore": 87
+  },
+  {
+   "date": "2026-06-16",
+   "steps": 13837,
+   "calories": 1193,
+   "exerciseMin": 63,
+   "stressAvg": 38,
+   "sleepTotalMin": 457,
+   "sleepDeepMin": 91,
+   "sleepLightMin": 275,
+   "sleepRemMin": 91,
+   "sleepAwakeMin": 45,
+   "sleepHrAvg": null,
+   "sleepScore": 75
+  },
+  {
+   "date": "2026-06-17",
+   "steps": 4501,
+   "calories": 369,
+   "exerciseMin": 0,
+   "stressAvg": 50,
+   "sleepTotalMin": null,
+   "sleepDeepMin": null,
+   "sleepLightMin": null,
+   "sleepRemMin": null,
+   "sleepAwakeMin": null,
+   "sleepHrAvg": null,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-06-18",
+   "steps": 16068,
+   "calories": 1581,
+   "exerciseMin": 134,
+   "stressAvg": 52,
+   "sleepTotalMin": 308,
+   "sleepDeepMin": 72,
+   "sleepLightMin": 195,
+   "sleepRemMin": 41,
+   "sleepAwakeMin": 9,
+   "sleepHrAvg": null,
+   "sleepScore": 58
+  },
+  {
+   "date": "2026-06-19",
+   "steps": 9232,
+   "calories": 606,
+   "exerciseMin": 0,
+   "stressAvg": 50,
+   "sleepTotalMin": 203,
+   "sleepDeepMin": 64,
+   "sleepLightMin": 109,
+   "sleepRemMin": 30,
+   "sleepAwakeMin": 27,
+   "sleepHrAvg": null,
+   "sleepScore": 48
+  },
+  {
+   "date": "2026-06-20",
+   "steps": 3801,
+   "calories": 340,
+   "exerciseMin": 0,
+   "stressAvg": 38,
+   "sleepTotalMin": 526,
+   "sleepDeepMin": 127,
+   "sleepLightMin": 354,
+   "sleepRemMin": 45,
+   "sleepAwakeMin": 76,
+   "sleepHrAvg": null,
+   "sleepScore": 48
+  },
+  {
+   "date": "2026-06-21",
+   "steps": 9828,
+   "calories": 550,
+   "exerciseMin": 0,
+   "stressAvg": 46,
+   "sleepTotalMin": 349,
+   "sleepDeepMin": 71,
+   "sleepLightMin": 176,
+   "sleepRemMin": 102,
+   "sleepAwakeMin": 24,
+   "sleepHrAvg": null,
+   "sleepScore": 73
+  },
+  {
+   "date": "2026-06-22",
+   "steps": 4448,
+   "calories": 295,
+   "exerciseMin": 0,
+   "stressAvg": 32,
+   "sleepTotalMin": null,
+   "sleepDeepMin": null,
+   "sleepLightMin": null,
+   "sleepRemMin": null,
+   "sleepAwakeMin": null,
+   "sleepHrAvg": null,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-06-23",
+   "steps": 14477,
+   "calories": 1013,
+   "exerciseMin": 61,
+   "stressAvg": 40,
+   "sleepTotalMin": null,
+   "sleepDeepMin": null,
+   "sleepLightMin": null,
+   "sleepRemMin": null,
+   "sleepAwakeMin": null,
+   "sleepHrAvg": null,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-06-24",
+   "steps": 11725,
+   "calories": 625,
+   "exerciseMin": 1,
+   "stressAvg": 45,
+   "sleepTotalMin": 458,
+   "sleepDeepMin": 67,
+   "sleepLightMin": 281,
+   "sleepRemMin": 110,
+   "sleepAwakeMin": 29,
+   "sleepHrAvg": null,
+   "sleepScore": 75
+  },
+  {
+   "date": "2026-06-25",
+   "steps": 6499,
+   "calories": 409,
+   "exerciseMin": 1,
+   "stressAvg": 44,
+   "sleepTotalMin": 353,
+   "sleepDeepMin": 80,
+   "sleepLightMin": 199,
+   "sleepRemMin": 74,
+   "sleepAwakeMin": 17,
+   "sleepHrAvg": null,
+   "sleepScore": 77
+  },
+  {
+   "date": "2026-06-26",
+   "steps": 13012,
+   "calories": 688,
+   "exerciseMin": 0,
+   "stressAvg": 48,
+   "sleepTotalMin": 279,
+   "sleepDeepMin": 76,
+   "sleepLightMin": 195,
+   "sleepRemMin": 8,
+   "sleepAwakeMin": 40,
+   "sleepHrAvg": null,
+   "sleepScore": 37
+  },
+  {
+   "date": "2026-06-27",
+   "steps": 6413,
+   "calories": 279,
+   "exerciseMin": 0,
+   "stressAvg": 34,
+   "sleepTotalMin": 409,
+   "sleepDeepMin": 88,
+   "sleepLightMin": 277,
+   "sleepRemMin": 44,
+   "sleepAwakeMin": 39,
+   "sleepHrAvg": null,
+   "sleepScore": 75
+  },
+  {
+   "date": "2026-06-28",
+   "steps": 3372,
+   "calories": 284,
+   "exerciseMin": 1,
+   "stressAvg": 38,
+   "sleepTotalMin": null,
+   "sleepDeepMin": null,
+   "sleepLightMin": null,
+   "sleepRemMin": null,
+   "sleepAwakeMin": null,
+   "sleepHrAvg": null,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-06-29",
+   "steps": 14805,
+   "calories": 1051,
+   "exerciseMin": 65,
+   "stressAvg": 35,
+   "sleepTotalMin": 339,
+   "sleepDeepMin": 67,
+   "sleepLightMin": 231,
+   "sleepRemMin": 41,
+   "sleepAwakeMin": 12,
+   "sleepHrAvg": null,
+   "sleepScore": 70
+  },
+  {
+   "date": "2026-06-30",
+   "steps": 4141,
+   "calories": 334,
+   "exerciseMin": 1,
+   "stressAvg": 32,
+   "sleepTotalMin": 417,
+   "sleepDeepMin": 103,
+   "sleepLightMin": 253,
+   "sleepRemMin": 24,
+   "sleepAwakeMin": 13,
+   "sleepHrAvg": null,
+   "sleepScore": 68
+  },
+  {
+   "date": "2026-07-01",
+   "steps": 11185,
+   "calories": 898,
+   "exerciseMin": 51,
+   "stressAvg": 38,
+   "sleepTotalMin": 345,
+   "sleepDeepMin": 94,
+   "sleepLightMin": 210,
+   "sleepRemMin": 41,
+   "sleepAwakeMin": 25,
+   "sleepHrAvg": null,
+   "sleepScore": 68
+  },
+  {
+   "date": "2026-07-02",
+   "steps": 3174,
+   "calories": 272,
+   "exerciseMin": 2,
+   "stressAvg": 41,
+   "sleepTotalMin": null,
+   "sleepDeepMin": null,
+   "sleepLightMin": null,
+   "sleepRemMin": null,
+   "sleepAwakeMin": null,
+   "sleepHrAvg": null,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-07-03",
+   "steps": 6636,
+   "calories": 392,
+   "exerciseMin": 0,
+   "stressAvg": 39,
+   "sleepTotalMin": 460,
+   "sleepDeepMin": 102,
+   "sleepLightMin": 259,
+   "sleepRemMin": 99,
+   "sleepAwakeMin": 26,
+   "sleepHrAvg": null,
+   "sleepScore": 86
+  },
+  {
+   "date": "2026-07-04",
+   "steps": 27413,
+   "calories": 1575,
+   "exerciseMin": 81,
+   "stressAvg": 74,
+   "sleepTotalMin": null,
+   "sleepDeepMin": null,
+   "sleepLightMin": null,
+   "sleepRemMin": null,
+   "sleepAwakeMin": null,
+   "sleepHrAvg": null,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-07-05",
+   "steps": 21296,
+   "calories": 653,
+   "exerciseMin": 23,
+   "stressAvg": 67,
+   "sleepTotalMin": null,
+   "sleepDeepMin": null,
+   "sleepLightMin": null,
+   "sleepRemMin": null,
+   "sleepAwakeMin": null,
+   "sleepHrAvg": null,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-07-06",
+   "steps": 9731,
+   "calories": 492,
+   "exerciseMin": 7,
+   "stressAvg": 46,
+   "sleepTotalMin": null,
+   "sleepDeepMin": null,
+   "sleepLightMin": null,
+   "sleepRemMin": null,
+   "sleepAwakeMin": null,
+   "sleepHrAvg": null,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-07-07",
+   "steps": 14575,
+   "calories": 1041,
+   "exerciseMin": 49,
+   "stressAvg": 41,
+   "sleepTotalMin": 384,
+   "sleepDeepMin": 86,
+   "sleepLightMin": 265,
+   "sleepRemMin": 33,
+   "sleepAwakeMin": 18,
+   "sleepHrAvg": null,
+   "sleepScore": 73
+  },
+  {
+   "date": "2026-07-08",
+   "steps": 4737,
+   "calories": 246,
+   "exerciseMin": 0,
+   "stressAvg": 30,
+   "sleepTotalMin": 354,
+   "sleepDeepMin": 74,
+   "sleepLightMin": 246,
+   "sleepRemMin": 34,
+   "sleepAwakeMin": 76,
+   "sleepHrAvg": null,
+   "sleepScore": 42
+  },
+  {
+   "date": "2026-07-09",
+   "steps": 15430,
+   "calories": 1071,
+   "exerciseMin": 58,
+   "stressAvg": 47,
+   "sleepTotalMin": 428,
+   "sleepDeepMin": 104,
+   "sleepLightMin": 231,
+   "sleepRemMin": 93,
+   "sleepAwakeMin": 51,
+   "sleepHrAvg": null,
+   "sleepScore": 70
+  },
+  {
+   "date": "2026-07-10",
+   "steps": 6169,
+   "calories": 352,
+   "exerciseMin": 0,
+   "stressAvg": 50,
+   "sleepTotalMin": null,
+   "sleepDeepMin": null,
+   "sleepLightMin": null,
+   "sleepRemMin": null,
+   "sleepAwakeMin": null,
+   "sleepHrAvg": null,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-07-11",
+   "steps": 10962,
+   "calories": 585,
+   "exerciseMin": 0,
+   "stressAvg": 56,
+   "sleepTotalMin": null,
+   "sleepDeepMin": null,
+   "sleepLightMin": null,
+   "sleepRemMin": null,
+   "sleepAwakeMin": null,
+   "sleepHrAvg": null,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-07-12",
+   "steps": 1663,
+   "calories": 199,
+   "exerciseMin": 0,
+   "stressAvg": 51,
+   "sleepTotalMin": 323,
+   "sleepDeepMin": 59,
+   "sleepLightMin": 97,
+   "sleepRemMin": 47,
+   "sleepAwakeMin": 8,
+   "sleepHrAvg": null,
+   "sleepScore": 64
+  },
+  {
+   "date": "2026-07-13",
+   "steps": 3531,
+   "calories": 288,
+   "exerciseMin": 0,
+   "stressAvg": 42,
+   "sleepTotalMin": null,
+   "sleepDeepMin": null,
+   "sleepLightMin": null,
+   "sleepRemMin": null,
+   "sleepAwakeMin": null,
+   "sleepHrAvg": null,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-07-14",
+   "steps": 23525,
+   "calories": 1825,
+   "exerciseMin": 96,
+   "stressAvg": 56,
+   "sleepTotalMin": 340,
+   "sleepDeepMin": 107,
+   "sleepLightMin": 213,
+   "sleepRemMin": 20,
+   "sleepAwakeMin": 24,
+   "sleepHrAvg": null,
+   "sleepScore": 49
+  },
+  {
+   "date": "2026-07-15",
+   "steps": 3215,
+   "calories": 276,
+   "exerciseMin": 0,
+   "stressAvg": 38,
+   "sleepTotalMin": 417,
+   "sleepDeepMin": 78,
+   "sleepLightMin": 172,
+   "sleepRemMin": 103,
+   "sleepAwakeMin": 13,
+   "sleepHrAvg": null,
+   "sleepScore": 92
+  },
+  {
+   "date": "2026-07-16",
+   "steps": 4144,
+   "calories": 326,
+   "exerciseMin": 0,
+   "stressAvg": 35,
+   "sleepTotalMin": 421,
+   "sleepDeepMin": 59,
+   "sleepLightMin": 241,
+   "sleepRemMin": 121,
+   "sleepAwakeMin": 16,
+   "sleepHrAvg": null,
+   "sleepScore": 79
+  },
+  {
+   "date": "2026-07-17",
+   "steps": 16717,
+   "calories": 1072,
+   "exerciseMin": 51,
+   "stressAvg": 53,
+   "sleepTotalMin": null,
+   "sleepDeepMin": null,
+   "sleepLightMin": null,
+   "sleepRemMin": null,
+   "sleepAwakeMin": null,
+   "sleepHrAvg": null,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-07-18",
+   "steps": 16435,
+   "calories": 497,
+   "exerciseMin": 1,
+   "stressAvg": 42,
+   "sleepTotalMin": null,
+   "sleepDeepMin": null,
+   "sleepLightMin": null,
+   "sleepRemMin": null,
+   "sleepAwakeMin": null,
+   "sleepHrAvg": null,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-07-19",
+   "steps": 15459,
+   "calories": 1024,
+   "exerciseMin": 47,
+   "stressAvg": 39,
+   "sleepTotalMin": 372,
+   "sleepDeepMin": 80,
+   "sleepLightMin": 225,
+   "sleepRemMin": 67,
+   "sleepAwakeMin": 21,
+   "sleepHrAvg": null,
+   "sleepScore": 88
+  },
+  {
+   "date": "2026-07-20",
+   "steps": 5936,
+   "calories": 449,
+   "exerciseMin": 1,
+   "stressAvg": 33,
+   "sleepTotalMin": 387,
+   "sleepDeepMin": 132,
+   "sleepLightMin": 217,
+   "sleepRemMin": 38,
+   "sleepAwakeMin": 19,
+   "sleepHrAvg": null,
+   "sleepScore": 71
+  },
+  {
+   "date": "2026-07-21",
+   "steps": 4363,
+   "calories": 325,
+   "exerciseMin": 0,
+   "stressAvg": 31,
+   "sleepTotalMin": 397,
+   "sleepDeepMin": 83,
+   "sleepLightMin": 259,
+   "sleepRemMin": 55,
+   "sleepAwakeMin": 13,
+   "sleepHrAvg": null,
+   "sleepScore": 93
+  },
+  {
+   "date": "2026-07-22",
+   "steps": 19467,
+   "calories": 1334,
+   "exerciseMin": 96,
+   "stressAvg": 35,
+   "sleepTotalMin": 414,
+   "sleepDeepMin": 123,
+   "sleepLightMin": 212,
+   "sleepRemMin": 79,
+   "sleepAwakeMin": 10,
+   "sleepHrAvg": null,
+   "sleepScore": 95
+  },
+  {
+   "date": "2026-07-23",
+   "steps": 4627,
+   "calories": 347,
+   "exerciseMin": 0,
+   "stressAvg": 55,
+   "sleepTotalMin": null,
+   "sleepDeepMin": null,
+   "sleepLightMin": null,
+   "sleepRemMin": null,
+   "sleepAwakeMin": null,
+   "sleepHrAvg": null,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-07-24",
+   "steps": 6185,
+   "calories": 432,
+   "exerciseMin": 2,
+   "stressAvg": 37,
+   "sleepTotalMin": 387,
+   "sleepDeepMin": 119,
+   "sleepLightMin": 263,
+   "sleepRemMin": 5,
+   "sleepAwakeMin": 82,
+   "sleepHrAvg": null,
+   "sleepScore": 40
+  },
+  {
+   "date": "2026-07-25",
+   "steps": 2410,
+   "calories": 325,
+   "exerciseMin": 0,
+   "stressAvg": 38,
+   "sleepTotalMin": 336,
+   "sleepDeepMin": 92,
+   "sleepLightMin": 129,
+   "sleepRemMin": 44,
+   "sleepAwakeMin": 6,
+   "sleepHrAvg": null,
+   "sleepScore": 68
+  },
+  {
+   "date": "2026-07-26",
+   "steps": 6508,
+   "calories": 754,
+   "exerciseMin": 86,
+   "stressAvg": 40,
+   "sleepTotalMin": 353,
+   "sleepDeepMin": 85,
+   "sleepLightMin": 189,
+   "sleepRemMin": 79,
+   "sleepAwakeMin": 55,
+   "sleepHrAvg": null,
+   "sleepScore": 62
+  },
+  {
+   "date": "2026-07-27",
+   "steps": 13007,
+   "calories": 1651,
+   "exerciseMin": 144,
+   "stressAvg": 43,
+   "sleepTotalMin": 526,
+   "sleepDeepMin": 110,
+   "sleepLightMin": 249,
+   "sleepRemMin": 131,
+   "sleepAwakeMin": 36,
+   "sleepHrAvg": 53,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-07-28",
+   "steps": 707,
+   "calories": 98,
+   "exerciseMin": 0,
+   "stressAvg": 25,
+   "sleepTotalMin": 437,
+   "sleepDeepMin": 115,
+   "sleepLightMin": 225,
+   "sleepRemMin": 97,
+   "sleepAwakeMin": 21,
+   "sleepHrAvg": null,
+   "sleepScore": 88
+  },
+  {
+   "date": "2026-07-29",
+   "steps": 11227,
+   "calories": 1715,
+   "exerciseMin": 149,
+   "stressAvg": 57,
+   "sleepTotalMin": null,
+   "sleepDeepMin": null,
+   "sleepLightMin": null,
+   "sleepRemMin": null,
+   "sleepAwakeMin": null,
+   "sleepHrAvg": null,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-07-30",
+   "steps": 8471,
+   "calories": 1010,
+   "exerciseMin": 98,
+   "stressAvg": 43,
+   "sleepTotalMin": 436,
+   "sleepDeepMin": 123,
+   "sleepLightMin": 209,
+   "sleepRemMin": 73,
+   "sleepAwakeMin": 15,
+   "sleepHrAvg": null,
+   "sleepScore": 94
+  },
+  {
+   "date": "2026-07-31",
+   "steps": 2159,
+   "calories": 200,
+   "exerciseMin": 0,
+   "stressAvg": 37,
+   "sleepTotalMin": 426,
+   "sleepDeepMin": 109,
+   "sleepLightMin": 220,
+   "sleepRemMin": 84,
+   "sleepAwakeMin": 13,
+   "sleepHrAvg": 57,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-08-01",
+   "steps": 11457,
+   "calories": 1670,
+   "exerciseMin": 154,
+   "stressAvg": 40,
+   "sleepTotalMin": 338,
+   "sleepDeepMin": 90,
+   "sleepLightMin": 165,
+   "sleepRemMin": 78,
+   "sleepAwakeMin": 5,
+   "sleepHrAvg": 55,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-08-02",
+   "steps": 10383,
+   "calories": 785,
+   "exerciseMin": 69,
+   "stressAvg": 41,
+   "sleepTotalMin": 397,
+   "sleepDeepMin": 102,
+   "sleepLightMin": 265,
+   "sleepRemMin": 16,
+   "sleepAwakeMin": 14,
+   "sleepHrAvg": 67,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-08-03",
+   "steps": 7621,
+   "calories": 1220,
+   "exerciseMin": 91,
+   "stressAvg": 43,
+   "sleepTotalMin": 308,
+   "sleepDeepMin": 82,
+   "sleepLightMin": 180,
+   "sleepRemMin": 12,
+   "sleepAwakeMin": 34,
+   "sleepHrAvg": 53,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-08-04",
+   "steps": 3156,
+   "calories": 253,
+   "exerciseMin": 1,
+   "stressAvg": 38,
+   "sleepTotalMin": 292,
+   "sleepDeepMin": 53,
+   "sleepLightMin": 142,
+   "sleepRemMin": 50,
+   "sleepAwakeMin": 47,
+   "sleepHrAvg": 70,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-08-05",
+   "steps": 16007,
+   "calories": 1338,
+   "exerciseMin": 82,
+   "stressAvg": 44,
+   "sleepTotalMin": 318,
+   "sleepDeepMin": 61,
+   "sleepLightMin": 190,
+   "sleepRemMin": 40,
+   "sleepAwakeMin": 27,
+   "sleepHrAvg": 57,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-08-06",
+   "steps": 12661,
+   "calories": 1449,
+   "exerciseMin": 152,
+   "stressAvg": 54,
+   "sleepTotalMin": 312,
+   "sleepDeepMin": 57,
+   "sleepLightMin": 172,
+   "sleepRemMin": 73,
+   "sleepAwakeMin": 10,
+   "sleepHrAvg": 68,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-08-07",
+   "steps": 5002,
+   "calories": 338,
+   "exerciseMin": 0,
+   "stressAvg": 47,
+   "sleepTotalMin": 332,
+   "sleepDeepMin": 51,
+   "sleepLightMin": 209,
+   "sleepRemMin": 52,
+   "sleepAwakeMin": 20,
+   "sleepHrAvg": 65,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-08-08",
+   "steps": 14000,
+   "calories": 859,
+   "exerciseMin": 62,
+   "stressAvg": 52,
+   "sleepTotalMin": 337,
+   "sleepDeepMin": 55,
+   "sleepLightMin": 208,
+   "sleepRemMin": 43,
+   "sleepAwakeMin": 31,
+   "sleepHrAvg": 70,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-08-09",
+   "steps": 22638,
+   "calories": 854,
+   "exerciseMin": 3,
+   "stressAvg": 44,
+   "sleepTotalMin": 194,
+   "sleepDeepMin": 23,
+   "sleepLightMin": 124,
+   "sleepRemMin": 17,
+   "sleepAwakeMin": 30,
+   "sleepHrAvg": 59,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-08-10",
+   "steps": 15333,
+   "calories": 672,
+   "exerciseMin": 1,
+   "stressAvg": 42,
+   "sleepTotalMin": 402,
+   "sleepDeepMin": 100,
+   "sleepLightMin": 246,
+   "sleepRemMin": 33,
+   "sleepAwakeMin": 23,
+   "sleepHrAvg": 58,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-08-11",
+   "steps": 19061,
+   "calories": 695,
+   "exerciseMin": 4,
+   "stressAvg": 39,
+   "sleepTotalMin": 436,
+   "sleepDeepMin": 83,
+   "sleepLightMin": 265,
+   "sleepRemMin": 48,
+   "sleepAwakeMin": 40,
+   "sleepHrAvg": 55,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-08-12",
+   "steps": 23600,
+   "calories": 1231,
+   "exerciseMin": 68,
+   "stressAvg": 39,
+   "sleepTotalMin": 413,
+   "sleepDeepMin": 82,
+   "sleepLightMin": 255,
+   "sleepRemMin": 40,
+   "sleepAwakeMin": 36,
+   "sleepHrAvg": 54,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-08-13",
+   "steps": 24625,
+   "calories": 927,
+   "exerciseMin": 4,
+   "stressAvg": 43,
+   "sleepTotalMin": 392,
+   "sleepDeepMin": 112,
+   "sleepLightMin": 233,
+   "sleepRemMin": 25,
+   "sleepAwakeMin": 22,
+   "sleepHrAvg": 53,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-08-14",
+   "steps": 2781,
+   "calories": 266,
+   "exerciseMin": 0,
+   "stressAvg": 30,
+   "sleepTotalMin": 410,
+   "sleepDeepMin": 121,
+   "sleepLightMin": 212,
+   "sleepRemMin": 53,
+   "sleepAwakeMin": 24,
+   "sleepHrAvg": 54,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-08-15",
+   "steps": 6896,
+   "calories": 450,
+   "exerciseMin": 0,
+   "stressAvg": 29,
+   "sleepTotalMin": 483,
+   "sleepDeepMin": 121,
+   "sleepLightMin": 267,
+   "sleepRemMin": 59,
+   "sleepAwakeMin": 36,
+   "sleepHrAvg": 50,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-08-16",
+   "steps": 11550,
+   "calories": 995,
+   "exerciseMin": 61,
+   "stressAvg": 25,
+   "sleepTotalMin": 489,
+   "sleepDeepMin": 111,
+   "sleepLightMin": 289,
+   "sleepRemMin": 45,
+   "sleepAwakeMin": 44,
+   "sleepHrAvg": 49,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-08-17",
+   "steps": 2989,
+   "calories": 307,
+   "exerciseMin": 0,
+   "stressAvg": 22,
+   "sleepTotalMin": 478,
+   "sleepDeepMin": 78,
+   "sleepLightMin": 303,
+   "sleepRemMin": 67,
+   "sleepAwakeMin": 30,
+   "sleepHrAvg": 52,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-08-18",
+   "steps": 11988,
+   "calories": 896,
+   "exerciseMin": 49,
+   "stressAvg": 27,
+   "sleepTotalMin": 477,
+   "sleepDeepMin": 89,
+   "sleepLightMin": 287,
+   "sleepRemMin": 78,
+   "sleepAwakeMin": 23,
+   "sleepHrAvg": 49,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-08-19",
+   "steps": 4761,
+   "calories": 366,
+   "exerciseMin": 0,
+   "stressAvg": 22,
+   "sleepTotalMin": 443,
+   "sleepDeepMin": 86,
+   "sleepLightMin": 281,
+   "sleepRemMin": 44,
+   "sleepAwakeMin": 32,
+   "sleepHrAvg": 54,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-08-20",
+   "steps": 11066,
+   "calories": 922,
+   "exerciseMin": 47,
+   "stressAvg": 29,
+   "sleepTotalMin": 525,
+   "sleepDeepMin": 92,
+   "sleepLightMin": 326,
+   "sleepRemMin": 77,
+   "sleepAwakeMin": 30,
+   "sleepHrAvg": 48,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-08-21",
+   "steps": 8010,
+   "calories": 460,
+   "exerciseMin": 4,
+   "stressAvg": 28,
+   "sleepTotalMin": 435,
+   "sleepDeepMin": 97,
+   "sleepLightMin": 233,
+   "sleepRemMin": 78,
+   "sleepAwakeMin": 27,
+   "sleepHrAvg": 56,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-08-22",
+   "steps": 7256,
+   "calories": 426,
+   "exerciseMin": 1,
+   "stressAvg": 29,
+   "sleepTotalMin": 449,
+   "sleepDeepMin": 68,
+   "sleepLightMin": 257,
+   "sleepRemMin": 95,
+   "sleepAwakeMin": 29,
+   "sleepHrAvg": 49,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-08-23",
+   "steps": 12608,
+   "calories": 966,
+   "exerciseMin": 70,
+   "stressAvg": 29,
+   "sleepTotalMin": 499,
+   "sleepDeepMin": 93,
+   "sleepLightMin": 263,
+   "sleepRemMin": 124,
+   "sleepAwakeMin": 19,
+   "sleepHrAvg": 62,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-08-24",
+   "steps": 4646,
+   "calories": 353,
+   "exerciseMin": 0,
+   "stressAvg": 23,
+   "sleepTotalMin": 345,
+   "sleepDeepMin": 47,
+   "sleepLightMin": 205,
+   "sleepRemMin": 78,
+   "sleepAwakeMin": 15,
+   "sleepHrAvg": 52,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-08-25",
+   "steps": 12551,
+   "calories": 868,
+   "exerciseMin": 52,
+   "stressAvg": 28,
+   "sleepTotalMin": 446,
+   "sleepDeepMin": 54,
+   "sleepLightMin": 319,
+   "sleepRemMin": 43,
+   "sleepAwakeMin": 30,
+   "sleepHrAvg": 49,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-08-26",
+   "steps": 3727,
+   "calories": 340,
+   "exerciseMin": 0,
+   "stressAvg": 28,
+   "sleepTotalMin": 404,
+   "sleepDeepMin": 59,
+   "sleepLightMin": 259,
+   "sleepRemMin": 71,
+   "sleepAwakeMin": 15,
+   "sleepHrAvg": 48,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-08-27",
+   "steps": 10452,
+   "calories": 933,
+   "exerciseMin": 49,
+   "stressAvg": 38,
+   "sleepTotalMin": 444,
+   "sleepDeepMin": 92,
+   "sleepLightMin": 245,
+   "sleepRemMin": 92,
+   "sleepAwakeMin": 15,
+   "sleepHrAvg": 56,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-08-28",
+   "steps": 3326,
+   "calories": 372,
+   "exerciseMin": 1,
+   "stressAvg": 33,
+   "sleepTotalMin": 437,
+   "sleepDeepMin": 105,
+   "sleepLightMin": 216,
+   "sleepRemMin": 109,
+   "sleepAwakeMin": 7,
+   "sleepHrAvg": 49,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-08-29",
+   "steps": 7894,
+   "calories": 587,
+   "exerciseMin": 3,
+   "stressAvg": 57,
+   "sleepTotalMin": 454,
+   "sleepDeepMin": 106,
+   "sleepLightMin": 274,
+   "sleepRemMin": 55,
+   "sleepAwakeMin": 19,
+   "sleepHrAvg": 70,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-08-30",
+   "steps": 1270,
+   "calories": 207,
+   "exerciseMin": 1,
+   "stressAvg": 32,
+   "sleepTotalMin": 381,
+   "sleepDeepMin": 93,
+   "sleepLightMin": 212,
+   "sleepRemMin": 64,
+   "sleepAwakeMin": 12,
+   "sleepHrAvg": 67,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-08-31",
+   "steps": 21394,
+   "calories": 1624,
+   "exerciseMin": 112,
+   "stressAvg": 33,
+   "sleepTotalMin": 352,
+   "sleepDeepMin": 40,
+   "sleepLightMin": 220,
+   "sleepRemMin": 64,
+   "sleepAwakeMin": 28,
+   "sleepHrAvg": 50,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-09-01",
+   "steps": 4308,
+   "calories": 376,
+   "exerciseMin": 0,
+   "stressAvg": 25,
+   "sleepTotalMin": 415,
+   "sleepDeepMin": 66,
+   "sleepLightMin": 277,
+   "sleepRemMin": 42,
+   "sleepAwakeMin": 30,
+   "sleepHrAvg": 48,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-09-02",
+   "steps": 14419,
+   "calories": 1145,
+   "exerciseMin": 60,
+   "stressAvg": 27,
+   "sleepTotalMin": 466,
+   "sleepDeepMin": 81,
+   "sleepLightMin": 286,
+   "sleepRemMin": 76,
+   "sleepAwakeMin": 23,
+   "sleepHrAvg": 50,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-09-03",
+   "steps": 8051,
+   "calories": 518,
+   "exerciseMin": 1,
+   "stressAvg": 43,
+   "sleepTotalMin": 452,
+   "sleepDeepMin": 98,
+   "sleepLightMin": 242,
+   "sleepRemMin": 40,
+   "sleepAwakeMin": 72,
+   "sleepHrAvg": 53,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-09-04",
+   "steps": 5600,
+   "calories": 401,
+   "exerciseMin": 1,
+   "stressAvg": 28,
+   "sleepTotalMin": 496,
+   "sleepDeepMin": 70,
+   "sleepLightMin": 259,
+   "sleepRemMin": 103,
+   "sleepAwakeMin": 64,
+   "sleepHrAvg": 54,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-09-05",
+   "steps": 3017,
+   "calories": 296,
+   "exerciseMin": 0,
+   "stressAvg": 21,
+   "sleepTotalMin": 516,
+   "sleepDeepMin": 109,
+   "sleepLightMin": 273,
+   "sleepRemMin": 94,
+   "sleepAwakeMin": 40,
+   "sleepHrAvg": 50,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-09-06",
+   "steps": 25038,
+   "calories": 2129,
+   "exerciseMin": 129,
+   "stressAvg": 42,
+   "sleepTotalMin": 353,
+   "sleepDeepMin": 79,
+   "sleepLightMin": 201,
+   "sleepRemMin": 59,
+   "sleepAwakeMin": 14,
+   "sleepHrAvg": 50,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-09-07",
+   "steps": 4331,
+   "calories": 342,
+   "exerciseMin": 0,
+   "stressAvg": 27,
+   "sleepTotalMin": 480,
+   "sleepDeepMin": 93,
+   "sleepLightMin": 300,
+   "sleepRemMin": 67,
+   "sleepAwakeMin": 20,
+   "sleepHrAvg": 49,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-09-08",
+   "steps": 12257,
+   "calories": 948,
+   "exerciseMin": 60,
+   "stressAvg": 29,
+   "sleepTotalMin": 435,
+   "sleepDeepMin": 71,
+   "sleepLightMin": 270,
+   "sleepRemMin": 78,
+   "sleepAwakeMin": 16,
+   "sleepHrAvg": 53,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-09-09",
+   "steps": 4404,
+   "calories": 374,
+   "exerciseMin": 1,
+   "stressAvg": 30,
+   "sleepTotalMin": 445,
+   "sleepDeepMin": 87,
+   "sleepLightMin": 231,
+   "sleepRemMin": 99,
+   "sleepAwakeMin": 28,
+   "sleepHrAvg": 49,
+   "sleepScore": null
+  },
+  {
+   "date": "2026-09-10",
+   "steps": 5993,
+   "calories": 383,
+   "exerciseMin": 0,
+   "stressAvg": 39,
+   "sleepTotalMin": 395,
+   "sleepDeepMin": 77,
+   "sleepLightMin": 210,
+   "sleepRemMin": 94,
+   "sleepAwakeMin": 14,
+   "sleepHrAvg": 62,
+   "sleepScore": null
+  }
+ ],
+ "restingHr": [
+  {
+   "date": "2026-06-13",
+   "bpm": 50
+  },
+  {
+   "date": "2026-06-14",
+   "bpm": 55
+  },
+  {
+   "date": "2026-06-15",
+   "bpm": 56
+  },
+  {
+   "date": "2026-06-16",
+   "bpm": 53
+  },
+  {
+   "date": "2026-06-17",
+   "bpm": null
+  },
+  {
+   "date": "2026-06-18",
+   "bpm": 55
+  },
+  {
+   "date": "2026-06-19",
+   "bpm": 58
+  },
+  {
+   "date": "2026-06-20",
+   "bpm": 56
+  },
+  {
+   "date": "2026-06-21",
+   "bpm": 59
+  },
+  {
+   "date": "2026-06-22",
+   "bpm": null
+  },
+  {
+   "date": "2026-06-23",
+   "bpm": null
+  },
+  {
+   "date": "2026-06-24",
+   "bpm": 54
+  },
+  {
+   "date": "2026-06-25",
+   "bpm": 56
+  },
+  {
+   "date": "2026-06-26",
+   "bpm": 56
+  },
+  {
+   "date": "2026-06-27",
+   "bpm": 56
+  },
+  {
+   "date": "2026-06-28",
+   "bpm": null
+  },
+  {
+   "date": "2026-06-29",
+   "bpm": 53
+  },
+  {
+   "date": "2026-06-30",
+   "bpm": 53
+  },
+  {
+   "date": "2026-07-01",
+   "bpm": 52
+  },
+  {
+   "date": "2026-07-02",
+   "bpm": null
+  },
+  {
+   "date": "2026-07-03",
+   "bpm": 54
+  },
+  {
+   "date": "2026-07-04",
+   "bpm": null
+  },
+  {
+   "date": "2026-07-05",
+   "bpm": null
+  },
+  {
+   "date": "2026-07-06",
+   "bpm": null
+  },
+  {
+   "date": "2026-07-07",
+   "bpm": 53
+  },
+  {
+   "date": "2026-07-08",
+   "bpm": 57
+  },
+  {
+   "date": "2026-07-09",
+   "bpm": 51
+  },
+  {
+   "date": "2026-07-10",
+   "bpm": null
+  },
+  {
+   "date": "2026-07-11",
+   "bpm": null
+  },
+  {
+   "date": "2026-07-12",
+   "bpm": 69
+  },
+  {
+   "date": "2026-07-13",
+   "bpm": null
+  },
+  {
+   "date": "2026-07-14",
+   "bpm": 53
+  },
+  {
+   "date": "2026-07-15",
+   "bpm": 58
+  },
+  {
+   "date": "2026-07-16",
+   "bpm": 53
+  },
+  {
+   "date": "2026-07-17",
+   "bpm": null
+  },
+  {
+   "date": "2026-07-18",
+   "bpm": null
+  },
+  {
+   "date": "2026-07-19",
+   "bpm": 53
+  },
+  {
+   "date": "2026-07-20",
+   "bpm": 53
+  },
+  {
+   "date": "2026-07-21",
+   "bpm": 52
+  },
+  {
+   "date": "2026-07-22",
+   "bpm": 53
+  },
+  {
+   "date": "2026-07-23",
+   "bpm": null
+  },
+  {
+   "date": "2026-07-24",
+   "bpm": 58
+  },
+  {
+   "date": "2026-07-25",
+   "bpm": 50
+  },
+  {
+   "date": "2026-07-26",
+   "bpm": 58
+  },
+  {
+   "date": "2026-07-27",
+   "bpm": 53
+  },
+  {
+   "date": "2026-07-28",
+   "bpm": 55
+  },
+  {
+   "date": "2026-07-29",
+   "bpm": null
+  },
+  {
+   "date": "2026-07-30",
+   "bpm": 55
+  },
+  {
+   "date": "2026-07-31",
+   "bpm": 56
+  },
+  {
+   "date": "2026-08-01",
+   "bpm": 53
+  },
+  {
+   "date": "2026-08-02",
+   "bpm": 58
+  },
+  {
+   "date": "2026-08-03",
+   "bpm": 52
+  },
+  {
+   "date": "2026-08-04",
+   "bpm": 65
+  },
+  {
+   "date": "2026-08-05",
+   "bpm": 54
+  },
+  {
+   "date": "2026-08-06",
+   "bpm": 60
+  },
+  {
+   "date": "2026-08-07",
+   "bpm": 58
+  },
+  {
+   "date": "2026-08-08",
+   "bpm": 62
+  },
+  {
+   "date": "2026-08-09",
+   "bpm": 57
+  },
+  {
+   "date": "2026-08-10",
+   "bpm": 58
+  },
+  {
+   "date": "2026-08-11",
+   "bpm": 53
+  },
+  {
+   "date": "2026-08-12",
+   "bpm": 54
+  },
+  {
+   "date": "2026-08-13",
+   "bpm": 54
+  },
+  {
+   "date": "2026-08-14",
+   "bpm": 52
+  },
+  {
+   "date": "2026-08-15",
+   "bpm": 51
+  },
+  {
+   "date": "2026-08-16",
+   "bpm": 52
+  },
+  {
+   "date": "2026-08-17",
+   "bpm": 52
+  },
+  {
+   "date": "2026-08-18",
+   "bpm": 51
+  },
+  {
+   "date": "2026-08-19",
+   "bpm": 54
+  },
+  {
+   "date": "2026-08-20",
+   "bpm": 50
+  },
+  {
+   "date": "2026-08-21",
+   "bpm": 54
+  },
+  {
+   "date": "2026-08-22",
+   "bpm": 51
+  },
+  {
+   "date": "2026-08-23",
+   "bpm": 58
+  },
+  {
+   "date": "2026-08-24",
+   "bpm": 48
+  },
+  {
+   "date": "2026-08-25",
+   "bpm": 50
+  },
+  {
+   "date": "2026-08-26",
+   "bpm": 51
+  },
+  {
+   "date": "2026-08-27",
+   "bpm": 53
+  },
+  {
+   "date": "2026-08-28",
+   "bpm": 52
+  },
+  {
+   "date": "2026-08-29",
+   "bpm": 64
+  },
+  {
+   "date": "2026-08-30",
+   "bpm": 62
+  },
+  {
+   "date": "2026-08-31",
+   "bpm": 51
+  },
+  {
+   "date": "2026-09-01",
+   "bpm": 50
+  },
+  {
+   "date": "2026-09-02",
+   "bpm": 51
+  },
+  {
+   "date": "2026-09-03",
+   "bpm": 54
+  },
+  {
+   "date": "2026-09-04",
+   "bpm": 52
+  },
+  {
+   "date": "2026-09-05",
+   "bpm": 53
+  },
+  {
+   "date": "2026-09-06",
+   "bpm": 50
+  },
+  {
+   "date": "2026-09-07",
+   "bpm": 51
+  },
+  {
+   "date": "2026-09-08",
+   "bpm": 52
+  },
+  {
+   "date": "2026-09-09",
+   "bpm": 51
+  },
+  {
+   "date": "2026-09-10",
+   "bpm": 61
+  }
+ ],
+ "sleepHrv": [
+  {
+   "date": "2026-08-14",
+   "avgMs": 64,
+   "lowMs": 42,
+   "highMs": 62,
+   "baselineMs": 52,
+   "evaluation": "Above normal"
+  },
+  {
+   "date": "2026-08-15",
+   "avgMs": 63,
+   "lowMs": 43,
+   "highMs": 63,
+   "baselineMs": 53,
+   "evaluation": "Normal"
+  },
+  {
+   "date": "2026-08-16",
+   "avgMs": 67,
+   "lowMs": 43,
+   "highMs": 63,
+   "baselineMs": 53,
+   "evaluation": "Above normal"
+  },
+  {
+   "date": "2026-08-17",
+   "avgMs": 58,
+   "lowMs": 45,
+   "highMs": 63,
+   "baselineMs": 54,
+   "evaluation": "Normal"
+  },
+  {
+   "date": "2026-08-18",
+   "avgMs": 62,
+   "lowMs": 45,
+   "highMs": 63,
+   "baselineMs": 54,
+   "evaluation": "Normal"
+  },
+  {
+   "date": "2026-08-19",
+   "avgMs": 53,
+   "lowMs": 46,
+   "highMs": 64,
+   "baselineMs": 55,
+   "evaluation": "Normal"
+  },
+  {
+   "date": "2026-08-20",
+   "avgMs": 64,
+   "lowMs": 46,
+   "highMs": 64,
+   "baselineMs": 55,
+   "evaluation": "Normal"
+  },
+  {
+   "date": "2026-08-21",
+   "avgMs": 49,
+   "lowMs": 46,
+   "highMs": 64,
+   "baselineMs": 55,
+   "evaluation": "Normal"
+  },
+  {
+   "date": "2026-08-22",
+   "avgMs": 58,
+   "lowMs": 46,
+   "highMs": 64,
+   "baselineMs": 55,
+   "evaluation": "Normal"
+  },
+  {
+   "date": "2026-08-23",
+   "avgMs": 49,
+   "lowMs": 46,
+   "highMs": 64,
+   "baselineMs": 55,
+   "evaluation": "Normal"
+  },
+  {
+   "date": "2026-08-24",
+   "avgMs": 62,
+   "lowMs": 45,
+   "highMs": 63,
+   "baselineMs": 54,
+   "evaluation": "Normal"
+  },
+  {
+   "date": "2026-08-25",
+   "avgMs": 59,
+   "lowMs": 46,
+   "highMs": 64,
+   "baselineMs": 55,
+   "evaluation": "Normal"
+  },
+  {
+   "date": "2026-08-26",
+   "avgMs": 64,
+   "lowMs": 46,
+   "highMs": 64,
+   "baselineMs": 55,
+   "evaluation": "Normal"
+  },
+  {
+   "date": "2026-08-27",
+   "avgMs": 69,
+   "lowMs": 47,
+   "highMs": 65,
+   "baselineMs": 56,
+   "evaluation": "Above normal"
+  },
+  {
+   "date": "2026-08-28",
+   "avgMs": 64,
+   "lowMs": 48,
+   "highMs": 66,
+   "baselineMs": 57,
+   "evaluation": "Normal"
+  },
+  {
+   "date": "2026-08-29",
+   "avgMs": 29,
+   "lowMs": 48,
+   "highMs": 66,
+   "baselineMs": 57,
+   "evaluation": "Low"
+  },
+  {
+   "date": "2026-08-30",
+   "avgMs": 35,
+   "lowMs": 46,
+   "highMs": 66,
+   "baselineMs": 56,
+   "evaluation": "Low"
+  },
+  {
+   "date": "2026-08-31",
+   "avgMs": 59,
+   "lowMs": 44,
+   "highMs": 66,
+   "baselineMs": 55,
+   "evaluation": "Normal"
+  },
+  {
+   "date": "2026-09-01",
+   "avgMs": 67,
+   "lowMs": 44,
+   "highMs": 66,
+   "baselineMs": 55,
+   "evaluation": "Above normal"
+  },
+  {
+   "date": "2026-09-02",
+   "avgMs": 65,
+   "lowMs": 46,
+   "highMs": 66,
+   "baselineMs": 56,
+   "evaluation": "Normal"
+  },
+  {
+   "date": "2026-09-03",
+   "avgMs": 51,
+   "lowMs": 46,
+   "highMs": 66,
+   "baselineMs": 56,
+   "evaluation": "Normal"
+  },
+  {
+   "date": "2026-09-04",
+   "avgMs": 61,
+   "lowMs": 46,
+   "highMs": 66,
+   "baselineMs": 56,
+   "evaluation": "Normal"
+  },
+  {
+   "date": "2026-09-05",
+   "avgMs": 56,
+   "lowMs": 46,
+   "highMs": 66,
+   "baselineMs": 56,
+   "evaluation": "Normal"
+  },
+  {
+   "date": "2026-09-06",
+   "avgMs": 58,
+   "lowMs": 47,
+   "highMs": 67,
+   "baselineMs": 57,
+   "evaluation": "Normal"
+  },
+  {
+   "date": "2026-09-07",
+   "avgMs": 60,
+   "lowMs": 47,
+   "highMs": 67,
+   "baselineMs": 57,
+   "evaluation": "Normal"
+  },
+  {
+   "date": "2026-09-08",
+   "avgMs": 49,
+   "lowMs": 49,
+   "highMs": 67,
+   "baselineMs": 58,
+   "evaluation": "Normal"
+  },
+  {
+   "date": "2026-09-09",
+   "avgMs": 56,
+   "lowMs": 49,
+   "highMs": 67,
+   "baselineMs": 58,
+   "evaluation": "Normal"
+  },
+  {
+   "date": "2026-09-10",
+   "avgMs": 40,
+   "lowMs": 49,
+   "highMs": 67,
+   "baselineMs": 58,
+   "evaluation": "Below normal"
+  }
+ ],
+ "trainingLoad": [
+  {
+   "date": "2026-08-11",
+   "atl": 55,
+   "ctl": 60,
+   "ratio": 0.91,
+   "comment": "Maintaining"
+  },
+  {
+   "date": "2026-08-12",
+   "atl": 60,
+   "ctl": 61,
+   "ratio": 0.98,
+   "comment": "Maintaining"
+  },
+  {
+   "date": "2026-08-13",
+   "atl": 52,
+   "ctl": 59,
+   "ratio": 0.88,
+   "comment": "Maintaining"
+  },
+  {
+   "date": "2026-08-14",
+   "atl": 44,
+   "ctl": 58,
+   "ratio": 0.75,
+   "comment": "Performance"
+  },
+  {
+   "date": "2026-08-15",
+   "atl": 38,
+   "ctl": 56,
+   "ratio": 0.67,
+   "comment": "Performance"
+  },
+  {
+   "date": "2026-08-16",
+   "atl": 49,
+   "ctl": 58,
+   "ratio": 0.84,
+   "comment": "Maintaining"
+  },
+  {
+   "date": "2026-08-17",
+   "atl": 42,
+   "ctl": 56,
+   "ratio": 0.75,
+   "comment": "Performance"
+  },
+  {
+   "date": "2026-08-18",
+   "atl": 46,
+   "ctl": 57,
+   "ratio": 0.8,
+   "comment": "Maintaining"
+  },
+  {
+   "date": "2026-08-19",
+   "atl": 39,
+   "ctl": 55,
+   "ratio": 0.7,
+   "comment": "Performance"
+  },
+  {
+   "date": "2026-08-20",
+   "atl": 48,
+   "ctl": 56,
+   "ratio": 0.85,
+   "comment": "Maintaining"
+  },
+  {
+   "date": "2026-08-21",
+   "atl": 41,
+   "ctl": 55,
+   "ratio": 0.74,
+   "comment": "Performance"
+  },
+  {
+   "date": "2026-08-22",
+   "atl": 35,
+   "ctl": 54,
+   "ratio": 0.64,
+   "comment": "Performance"
+  },
+  {
+   "date": "2026-08-23",
+   "atl": 44,
+   "ctl": 55,
+   "ratio": 0.8,
+   "comment": "Maintaining"
+  },
+  {
+   "date": "2026-08-24",
+   "atl": 38,
+   "ctl": 54,
+   "ratio": 0.7,
+   "comment": "Performance"
+  },
+  {
+   "date": "2026-08-25",
+   "atl": 42,
+   "ctl": 54,
+   "ratio": 0.77,
+   "comment": "Performance"
+  },
+  {
+   "date": "2026-08-26",
+   "atl": 36,
+   "ctl": 53,
+   "ratio": 0.67,
+   "comment": "Performance"
+  },
+  {
+   "date": "2026-08-27",
+   "atl": 54,
+   "ctl": 55,
+   "ratio": 0.98,
+   "comment": "Maintaining"
+  },
+  {
+   "date": "2026-08-28",
+   "atl": 46,
+   "ctl": 54,
+   "ratio": 0.85,
+   "comment": "Maintaining"
+  },
+  {
+   "date": "2026-08-29",
+   "atl": 39,
+   "ctl": 53,
+   "ratio": 0.73,
+   "comment": "Performance"
+  },
+  {
+   "date": "2026-08-30",
+   "atl": 34,
+   "ctl": 51,
+   "ratio": 0.66,
+   "comment": "Performance"
+  },
+  {
+   "date": "2026-08-31",
+   "atl": 54,
+   "ctl": 54,
+   "ratio": 1.0,
+   "comment": "Optimized"
+  },
+  {
+   "date": "2026-09-01",
+   "atl": 46,
+   "ctl": 53,
+   "ratio": 0.86,
+   "comment": "Maintaining"
+  },
+  {
+   "date": "2026-09-02",
+   "atl": 65,
+   "ctl": 56,
+   "ratio": 1.16,
+   "comment": "Optimized"
+  },
+  {
+   "date": "2026-09-03",
+   "atl": 56,
+   "ctl": 55,
+   "ratio": 1.01,
+   "comment": "Optimized"
+  },
+  {
+   "date": "2026-09-04",
+   "atl": 48,
+   "ctl": 53,
+   "ratio": 0.9,
+   "comment": "Maintaining"
+  },
+  {
+   "date": "2026-09-05",
+   "atl": 41,
+   "ctl": 52,
+   "ratio": 0.78,
+   "comment": "Performance"
+  },
+  {
+   "date": "2026-09-06",
+   "atl": 77,
+   "ctl": 58,
+   "ratio": 1.32,
+   "comment": "Optimized"
+  },
+  {
+   "date": "2026-09-07",
+   "atl": 66,
+   "ctl": 56,
+   "ratio": 1.17,
+   "comment": "Optimized"
+  },
+  {
+   "date": "2026-09-08",
+   "atl": 68,
+   "ctl": 57,
+   "ratio": 1.19,
+   "comment": "Optimized"
+  },
+  {
+   "date": "2026-09-09",
+   "atl": 59,
+   "ctl": 56,
+   "ratio": 1.05,
+   "comment": "Optimized"
+  },
+  {
+   "date": "2026-09-10",
+   "atl": 50,
+   "ctl": 54,
+   "ratio": 0.92,
+   "comment": "Maintaining"
+  }
+ ]
+}
